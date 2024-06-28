@@ -1,0 +1,56 @@
+/* src/styles/fonts.css */
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuLight.otf") format("opentype");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuRegular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuMedium.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuBold.otf") format("opentype");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuLightItalic.otf") format("opentype");
+  font-weight: lighter;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuRegularItalic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuMediumItalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("../fonts/Apercu/ApercuBoldItalic.otf") format("opentype");
+  font-weight: bolder;
+  font-style: italic;
+}
