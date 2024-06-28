@@ -11,3 +11,19 @@ body {
   margin: 0;
   padding: 0;
 }
+
+@keyframes caruselAnimation {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.carusel {
+  animation: 18s caruselAnimation infinite linear;
+}
+
+.caruselParent .carusel {
+}
